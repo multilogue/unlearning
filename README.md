@@ -1,10 +1,10 @@
-# Package name
-Package Name
+# Unlearning
+Discarding the previous knowledge.
 <pre>
-  pip install independent-machine
+  pip install unlearning
 </pre>
 Then:
 ```Python
   # Python
-  import independent_machine
+  import unlearning
 ```
